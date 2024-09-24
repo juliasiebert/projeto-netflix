@@ -2,3 +2,12 @@ body{
     background-color: rgb(0, 0, 0);
     color: rgb(51, 164, 216);
 }
+header{border-bottom:solid  2px rgb(51, 164, 216);
+        padding:20px;
+        font: size 35px;
+        color: rgb(17, 255, 37);
+     }
+     .chamada{background-color:rgb(255, 255, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    }
